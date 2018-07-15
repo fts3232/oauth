@@ -3,6 +3,10 @@
     "description": "laravel 5 oauth",
     "type": "package",
     "license": "MIT",
+    "keywords": [
+        "laravel",
+        "oauth2"
+    ],
     "authors": [
         {
             "name": "tianshuo feng",
