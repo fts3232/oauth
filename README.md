@@ -18,7 +18,7 @@
 ### 添加服务提供者
 打开 `config/app.php` 并添加以下内容到 providers 数组:
     
-    fts\OAuthServiceProvider.php::class
+    fts\OAuth2\OAuthServiceProvider.php::class
 ### 中间件
 打开 `app/Http/Kernel.php` 并添加以下内容到 routeMiddleware 数组:
 
